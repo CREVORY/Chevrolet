@@ -4,11 +4,13 @@
   gap: 20px;
   justify-content: center;
   padding: 20px;
-  background-color: #1c1c1c;
+  background-image: url('../images/chevrolet-bg.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .gallery-item {
-  background-color: #2e2e2e;
+  background-color: rgba(46, 46, 46, 0.9);
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
